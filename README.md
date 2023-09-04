@@ -6,10 +6,10 @@ Repository containing a portfolio of data science projects completed by me for a
 
 ## Content
 
- ### Data Analysis and Visualisation
+- ### Data Analysis and Visualisation
 
- ### Deep Learning
+- ### Deep Learning
 
- [Dog Breed Image Classification](https://github.com/BluedreamV1B3/CNN-Dog-Breed-Classification-): Classifying dog breeds by images using transfer learning and deploy the model using Streamlit. Includes different experiments, such as trying different data enhancement levels, replacing different top layers for the model, and unfreezing different base model layers. _Tools: Tensorflow, Keras, Streamlit
+      - [Dog Breed Image Classification](https://github.com/BluedreamV1B3/CNN-Dog-Breed-Classification-): Classifying dog breeds by images using transfer learning and deploy the model using Streamlit. Includes different experiments, such as trying different data enhancement levels, replacing different top layers for the model, and unfreezing different base model layers. _Tools: Tensorflow, Keras, Streamlit
 
- ### Traditional Machine Learning
+ - ### Traditional Machine Learning
