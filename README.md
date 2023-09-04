@@ -17,8 +17,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
      _Tools: scikit-learn, Tensorflow, Keras, Streamlit_
 
 	- __R__
-   		- [NBA 2023 Champion Prediction](https://rpubs.com/BlueDreamV1B3/NBA2023ChampionPrediction): Using Xgboost and Random Forest to predict the 2023 NBA championship team. Use web scraping to obtain data, perform data cleaning and build a machine learning model pipeline. 
-
+   		- [NBA 2023 Champion Prediction](https://rpubs.com/BlueDreamV1B3/NBA2023ChampionPrediction): Using Xgboost and Random Forest to predict the 2023 NBA championship team. Including web scraping, data cleaning, and building a machine-learning model pipeline.
  
 - ### Data Analysis and Visualisation
 
