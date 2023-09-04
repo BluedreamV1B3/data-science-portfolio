@@ -24,7 +24,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 	- __Python__
   		- [Pennsylvania Deer Related Crashs Analysis](https://github.com/BluedreamV1B3/Pennsylvania-Deer-Related-Crashs-Analysis): Download data from the Pennsylvania Department of Transportation and analyze deer related crashes based on time, location, and other variables. Draw conclusions and recommendations from the data.
-  		- [Brazilian E-Commerce EDA](https:github.com/BluedreamV1B3/Brazil-E-Commerce-EDA/tree/main): Exploratory Analysis of the Brazilian E-Commerce using visualisations techniques and graphical tools to create informative and easy-to-understand plots.
+  		- [Brazilian E-Commerce EDA](https://github.com/BluedreamV1B3/Brazil-E-Commerce-EDA/tree/main): Exploratory Analysis of the Brazilian E-Commerce using visualisations techniques and graphical tools to create informative and easy-to-understand plots.
 
     _Tools: Pandas, Folium, Seaborn and Matplotlib_
 
