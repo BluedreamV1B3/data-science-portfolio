@@ -17,13 +17,14 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
      _Tools: scikit-learn, Tensorflow, Keras, Streamlit_
 
 	- __R__
-             - [NBA 2023 Champion Prediction](https://rpubs.com/BlueDreamV1B3/NBA2023ChampionPrediction): Using Xgboost and Random Forest to predict the 2023 NBA championship team. Use web scraping to obtain data, perform data cleaning and build a machine learning model pipeline. 
+             	- [NBA 2023 Champion Prediction](https://rpubs.com/BlueDreamV1B3/NBA2023ChampionPrediction): Using Xgboost and Random Forest to predict the 2023 NBA championship team. Use web scraping to obtain data, perform data cleaning and build a machine learning model pipeline. 
 
  
 - ### Data Analysis and Visualisation
 
-  - [Pennsylvania Deer Related Crashs Analysis](https://github.com/BluedreamV1B3/Pennsylvania-Deer-Related-Crashs-Analysis): Download data from the Pennsylvania Department of Transportation and analyze deer related crashes based on time, location, and other variables. Draw conclusions and recommendations from the data.
-  - [Brazilian E-Commerce EDA](https:github.com/BluedreamV1B3/Brazil-E-Commerce-EDA/tree/main): Exploratory Analysis of the Brazilian E-Commerce using visualisations techniques and graphical tools to create informative and easy-to-understand plots.
+	- __Python__
+  		- [Pennsylvania Deer Related Crashs Analysis](https://github.com/BluedreamV1B3/Pennsylvania-Deer-Related-Crashs-Analysis): Download data from the Pennsylvania Department of Transportation and analyze deer related crashes based on time, location, and other variables. Draw conclusions and recommendations from the data.
+  		- [Brazilian E-Commerce EDA](https:github.com/BluedreamV1B3/Brazil-E-Commerce-EDA/tree/main): Exploratory Analysis of the Brazilian E-Commerce using visualisations techniques and graphical tools to create informative and easy-to-understand plots.
 
       _Tools: Pandas, Folium, Seaborn and Matplotlib_
 
