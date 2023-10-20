@@ -16,7 +16,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
  
   		- [LSTM and WaveNet for Music Generation](https://github.com/BluedreamV1B3/LSTM-and-WaveNet-for-Music-Generation): Building a Long Short-Term Memory (LSTM) neural network along with a scaled-down version of WaveNet for the purpose of music generation, aiming to gain experience in working with sequential models and data. 
 
-     _Tools: scikit-learn, Tensorflow, Keras, Streamlit_
+     _Tools: scikit-learn, Tensorflow, Keras, and Streamlit_
 
 	- __R__
    		- [NBA 2023 Champion Prediction](https://rpubs.com/BlueDreamV1B3/NBA2023ChampionPrediction): Using Xgboost and Random Forest to predict the 2023 NBA championship team. Including web scraping, data cleaning, and building a machine-learning model pipeline.
