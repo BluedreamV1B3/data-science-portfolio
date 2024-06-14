@@ -13,9 +13,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 	- __Python__
                 - [MRSA Classification]: Developed Convolutional Neural Networks (CNNs) to classify Methicillin-Resistant Staphylococcus aureus (MRSA) lesions from medical images, enhanced lesion identification by 70%, and minimized treatment delays by 90%
-   
 		- [Dog Breed Image Classification](https://github.com/BluedreamV1B3/CNN-Dog-Breed-Classification-): Classifying dog breeds given images using transfer learning and deploying the model using Streamlit. Includes different experiments, such as trying different data enhancement levels, replacing different top layers for the model, and unfreezing different base model layers.
- 
   		- [LSTM and WaveNet for Music Generation](https://github.com/BluedreamV1B3/LSTM-and-WaveNet-for-Music-Generation): Building a Long Short-Term Memory (LSTM) neural network along with a scaled-down version of WaveNet for the purpose of music generation, aiming to gain experience in working with sequential models and data. 
 
      _Tools: scikit-learn, Tensorflow, Keras, and Streamlit_
